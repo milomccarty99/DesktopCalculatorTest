@@ -1,0 +1,14 @@
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.exe
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.deps.json
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.runtimeconfig.json
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.runtimeconfig.dev.json
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.dll
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\bin\Debug\netcoreapp3.1\DesktopCalculatorTest.pdb
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.csproj.AssemblyReference.cache
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.AssemblyInfoInputs.cache
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.AssemblyInfo.cs
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.dll
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.pdb
+C:\Users\zoomz\source\repos\DesktopCalculatorTest\DesktopCalculatorTest\obj\Debug\netcoreapp3.1\DesktopCalculatorTest.genruntimeconfig.cache
